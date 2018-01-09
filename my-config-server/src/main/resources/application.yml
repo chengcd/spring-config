@@ -7,5 +7,5 @@ spring:
         git:
           uri: https://github.com/chengcd/spring-config.git
           username: chengcd
-          password: 1qaz!QAZ
+          password: 1qaz!QAZ1
           searchPaths: my-sample-config
