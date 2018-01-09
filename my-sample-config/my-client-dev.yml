@@ -1,0 +1,5 @@
+interest_rate_type: '[{"name":"月","value":"1"},{"name":"季","value":"2"},{"name":"日","value":"3"}]'
+
+radio_yes_or_no: '[{"name":"是","value":"1"},{"name":"否","value":"0"}]'
+
+radio_invite_award_type: '[{"name":"被邀请人借款","value":"INVITED_INVEST"},{"name":"邀请双方均借款","value":"INVITED_BOTH_INVEST"}]'
