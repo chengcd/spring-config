@@ -12,6 +12,7 @@ target/
 .metadata/.mylyn/repositories.xml.zip
 .metadata/.mylyn/tasks.xml.zip
 .metadata/.plugins/org.eclipse.core.resources/.history/1c/e053a0c0fff400171906c1760c5d6e62
+<<<<<<< HEAD
 .metadata/.plugins/org.eclipse.core.resources/.history/26/60917ce405f500171906c1760c5d6e62
 .metadata/.plugins/org.eclipse.core.resources/.history/27/6011925306f500171906c1760c5d6e62
 .metadata/.plugins/org.eclipse.core.resources/.history/2e/60729fc8fff400171906c1760c5d6e62
@@ -33,6 +34,18 @@ target/
 .metadata/.plugins/org.eclipse.core.resources/.history/c5/50fcccc6fff400171906c1760c5d6e62
 .metadata/.plugins/org.eclipse.core.resources/.history/e8/50530f2f03f500171906c1760c5d6e62
 .metadata/.plugins/org.eclipse.core.resources/.history/f/d061369802f500171906c1760c5d6e62
+=======
+.metadata/.plugins/org.eclipse.core.resources/.history/2e/60729fc8fff400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/3c/20ad525cf0f400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/55/d09b72acf0f400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/5d/5011269ff0f400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/86/d094471ff1f400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/a1/60ce83defef400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/af/a0e4b90af1f400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/bc/90a68a0ff1f400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/c2/0059db75eff400171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.history/c5/50fcccc6fff400171906c1760c5d6e62
+>>>>>>> dev
 .metadata/.plugins/org.eclipse.core.resources/.history/f8/00184466ebf400171906c1760c5d6e62
 .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index
 .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap
@@ -55,7 +68,10 @@ target/
 .metadata/.plugins/org.eclipse.core.resources/.projects/my-config-server/.syncinfo
 .metadata/.plugins/org.eclipse.core.resources/.projects/my-config-server/.syncinfo.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/my-config-server/org.eclipse.egit.core/GitProjectData.properties
+<<<<<<< HEAD
 .metadata/.plugins/org.eclipse.core.resources/.projects/my-sample-config/.indexes/history.index
+=======
+>>>>>>> dev
 .metadata/.plugins/org.eclipse.core.resources/.projects/my-sample-config/.indexes/properties.index
 .metadata/.plugins/org.eclipse.core.resources/.projects/my-sample-config/.markers.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/my-sample-config/.syncinfo.snap
@@ -241,7 +257,10 @@ target/
 .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png
 .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png
 .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png
+<<<<<<< HEAD
 .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png
+=======
+>>>>>>> dev
 .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/my-config-client/2018/1/2/refactorings.history
 .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/my-config-client/2018/1/2/refactorings.index
 .metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml
@@ -334,3 +353,9 @@ my-sample-config/.idea/modules.xml
 my-sample-config/.idea/vcs.xml
 my-sample-config/.idea/workspace.xml
 my-sample-config/my-sample-config.iml
+<<<<<<< HEAD
+=======
+.metadata/.plugins/org.eclipse.core.resources/.history/f/d061369802f500171906c1760c5d6e62
+.metadata/.plugins/org.eclipse.core.resources/.projects/my-sample-config/.indexes/history.index
+.metadata/.plugins/org.eclipse.core.resources/.history/68/d06a22e402f500171906c1760c5d6e62
+>>>>>>> dev

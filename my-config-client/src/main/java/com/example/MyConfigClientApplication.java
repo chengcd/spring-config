@@ -14,6 +14,9 @@ public class MyConfigClientApplication {
 
 	@Autowired
 	void setEnvironment(Environment env) {
+		
+		System.out.println(env);
+		
 		System.out.println("my-config.appName from env: " + env.getProperty("my-config.appName"));
 	}
 }
